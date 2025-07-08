@@ -1,10 +1,10 @@
-/* Responsive Styles */
+  /* xl */
 @media (max-width: 1199px) {
   .container {
     max-width: 960px;
   }
 }
-
+/* lg */
 @media (max-width: 991px) {
   .container {
     max-width: 720px;
@@ -34,7 +34,7 @@
     padding: 15px;
   }
 }
-
+/* md */
 @media (max-width: 767px) {
   .container {
     max-width: 540px;
@@ -96,7 +96,7 @@
     margin-right: 10px;
   }
 }
-
+/* sm */
 @media (max-width: 575px) {
   .container {
     padding: 0 10px;
@@ -171,7 +171,7 @@
   }
 }
 
-/* Mobile Landscape */
+/* xsm */
 @media (max-width: 767px) and (orientation: landscape) {
   .bg-img {
     height: 300px;
@@ -183,16 +183,18 @@
   }
 }
 
-/* Tablet Portrait */
+/* md*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
   .bg-img {
     height: 350px;
   }
 }
 
-/* Tablet Landscape */
+/* md */
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   .bg-img {
     height: 400px;
   }
 }
+
+} 
