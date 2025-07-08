@@ -2,7 +2,7 @@
 Stand Blog is a responsive HTML5/CSS3 blog template designed for bloggers and content creators. This template features a modern design with a clean layout, mobile responsiveness, and various sections for displaying blog posts, categories, and tags.
 
 🔗 Live Project Link
-e-blog-website.vercel.app
+[e-blog-website.vercel.app](https://e-blog-website.vercel.app)
 
 🛠️ Features
 ✅ Fully responsive design
