@@ -1,26 +1,25 @@
-# Stand-blog-website
-Stand Blog - Documentation
-Project Overview
-Stand Blog is a responsive HTML5/CSS3 blog template designed for bloggers and content creators. This modern template features a clean design, mobile responsiveness, and various sections to showcase blog posts effectively.
+📌 Project Overview
+Stand Blog is a responsive HTML5/CSS3 blog template designed for bloggers and content creators. This template features a modern design with a clean layout, mobile responsiveness, and various sections for displaying blog posts, categories, and tags.
 
-Features
-Responsive Design: Works on all device sizes (desktop, tablet, mobile)
+🔗 Live Project Link
+e-blog-website.vercel.app
 
-Swiper Slider: Featured posts slider with navigation controls
+🛠️ Features
+✅ Fully responsive design
 
-Blog Post Layouts: Multiple blog post templates with categories and tags
+✅ Mobile-friendly navigation
 
-Sidebar: Includes search, recent posts, categories, and tag clouds
+✅ Swiper.js slider for featured posts
 
-Mobile-Friendly Navigation: Hamburger menu for smaller screens
+✅ Clean blog post layout
 
-Modern Styling: Clean typography and orange accent color scheme
+✅ Sidebar with recent posts, categories, and tags
 
-Live Project
-You can view the live project here:
-Stand Blog Live Demo (Replace with your actual live link when deployed)
+✅ Modern CSS styling with variables
 
-File Structure
+✅ Cross-browser compatible
+
+📂 File Structure
 text
 stand-blog/
 ├── index.html          # Main HTML file
@@ -28,83 +27,64 @@ stand-blog/
 │   ├── style.css       # Main stylesheet
 │   ├── all.min.css     # Font Awesome icons
 │   └── media.css       # Media queries
-├── imges/              # All image assets
-│   ├── slide-img-1.jpg
-│   ├── slide-img-2.jpg
-│   ├── slide-img-3.jpg
-│   ├── slide-img-4.jpg
-│   ├── slide-img-5.jpg
-│   ├── slide-img-6.jpg
-│   ├── blog-post-01.jpg
-│   └── bg-1.jpg
+├── imges/              # All project images
 └── js/                 # JavaScript files (if any)
-Technologies Used
+🖥️ Technologies Used
 HTML5
 
-CSS3
+CSS3 (with CSS Variables)
 
-JavaScript (for Swiper slider and mobile menu)
+JavaScript (for Swiper.js and mobile menu)
 
-Swiper JS - Touch slider library
+Swiper.js - For the featured posts slider
 
-Font Awesome - Icon library
+Font Awesome - For icons
 
-Installation
-To run this project locally:
+📱 Responsive Breakpoints
+The template includes responsive design for various screen sizes:
 
-Clone the repository:
+Extra Large (xl): 1199px and below
 
-bash
-git clone https://github.com/DEV-jarirmultani/stand-blog.git
-Navigate to the project directory:
+Large (lg): 991px and below
 
-bash
-cd stand-blog
-Open the index.html file in your browser.
+Medium (md): 767px and below
 
-Usage
-This template is ready to use for your blog. To customize:
+Small (sm): 575px and below
 
-Replace the placeholder images in the imges folder with your own
+🎨 Color Scheme
+Primary Accent: #FB9E3A (Orange)
 
-Update the blog post content in the HTML file
+Text Colors:
 
-Modify colors in the CSS variables at the top of the style section
+White: #ffffff
 
-Add your own social media links in the footer
+Grey: #b9b9b9
 
-Responsive Breakpoints
-The template includes responsive design for:
+Dark: #1e1e1e
 
-Extra large screens (≥1200px)
+Borders: #e4e1e1
 
-Large screens (≥992px)
+🚀 How to Use
+Clone or download the repository
 
-Medium screens (≥768px)
+Open index.html in your browser
 
-Small screens (≤767px)
+Customize the content, images, and colors as needed
 
-Browser Support
-The template is tested and works on:
+📝 Customization Guide
+Change Colors: Modify the CSS variables in :root
 
-Chrome (latest)
+Update Content: Edit the HTML directly
 
-Firefox (latest)
+Add Posts: Duplicate the blog post section and update content
 
-Safari (latest)
+Change Images: Replace images in the imges folder and update references
 
-Edge (latest)
+🤝 Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-Credits
-Design inspired by TemplateMo
-
-Swiper JS for the slider functionality
-
-Font Awesome for icons
-
-License
+📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For questions or support, please contact:
-E-mail :mjarir@gmail.com
+✉️ Contact
+E-mail : mjarir@gmail.com
